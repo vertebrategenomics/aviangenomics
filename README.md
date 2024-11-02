@@ -18,7 +18,9 @@ Due to storage limitations, raw .fasta, .fastq, .fna, .fa, and .sra files are no
 
 The following tools are required to run analyses in this project:
 
+    FastQC
     BUSCO
     QUAST
+    SPAdes
     Hifiasm
     Python 3.8+ and required libraries
