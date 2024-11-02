@@ -7,6 +7,7 @@ This repository contains data and scripts related to the genome assembly, annota
 **Contents**
 
     HoFi_hifiasm_assembly: Contains genome assembly files for Haemorhous mexicanus (House Finch) produced using HiFi sequencing data and assembled with the Hifiasm algorithm.
+    HoFi_RNA-spades_assemblies: Contains transcriptome assembly files for Haemorhous mexicanus (House Finch) produced using Illumina RNA-seq reads with the RNA-SPAdes tool.
     Scripts: Contains scripts used for quality assessment, data processing, and analysis.
 
 
