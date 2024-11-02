@@ -14,16 +14,6 @@ This repository contains data and scripts related to the genome assembly, annota
 
 Due to storage limitations, raw .fasta, .fastq, .fna, .fa, and .sra files are not stored here. The accesion numbers for the raw reads used can be found in the automation scripts.
 
-**Setup Instructions**
-
-To run the analysis, clone this repository and set up the necessary dependencies.
-Cloning the Repository
-
-bash
-
-git clone https://github.com/vertebrategenomics/aviangenomics.git
-cd aviangenomics
-
 **Dependencies**
 
 The following tools are required to run analyses in this project:
