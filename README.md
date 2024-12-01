@@ -13,7 +13,7 @@ This repository contains data and scripts related to the genome assembly, annota
 
 **Data**
 
-Due to storage limitations, raw .fasta, .fastq, .fna, .fa, and .sra files are not stored here. The accesion numbers for the raw reads used can be found in the automation scripts.
+Due to storage limitations, raw .fasta, .fastq, .fna, .fa, and .sra files are not stored here. The accesion numbers for the raw reads used can be found in the automation scripts. (I will add my code once I complete my master's project).
 
 **Dependencies**
 
