@@ -28,4 +28,4 @@ The following tools are required to run analyses in this project:
     
 **Extra information**
 
-Check out my CSUBIOTECH 2025 poster on House Finch immunogenetics here.
+Check out my CSUBIOTECH 2025 poster on House Finch immunogenetics [here](CSUBIOTECH2025_Poster).
