@@ -2,7 +2,7 @@
 
 **Overview**
 
-This repository contains data and scripts related to the genome assembly, annotation, and analysis of finch species (family Fringillidae). The project aims to study genome structure, evolutionary patterns, and immune gene functions across different bird genomes.
+This repository contains data and scripts related to the genome assembly, annotation, and analysis of finch species (family Fringillidae). The project aims to study genome structure, evolutionary history, and immune gene functions across different bird genomes.
 
 **Contents**
 
@@ -25,3 +25,7 @@ The following tools are required to run analyses in this project:
     SPAdes
     Hifiasm
     Python 3.8+ and required libraries
+    
+**Extra information**
+
+Check out my CSUBIOTECH 2025 poster on House Finch immunogenetics here.
